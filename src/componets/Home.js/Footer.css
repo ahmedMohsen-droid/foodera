@@ -1,0 +1,13 @@
+.footer{
+    background: #ab3550;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    margin-top: 50px;
+    
+}
+
+.footer a{
+    cursor: pointer;
+    margin: 30px 20px;
+}

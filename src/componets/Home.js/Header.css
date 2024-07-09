@@ -1,0 +1,50 @@
+header{
+    background: url('../../assets/3.jpg') center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0px;
+}
+header .row{
+    margin: 200px 0;
+}
+header h2{
+    color: #ab3550;
+    font-size: 55px;
+    line-height:60px ;
+    font-weight: bold;
+    width: 80%;
+}
+header p{
+    color: #333;
+    margin: 15px 0;
+    width: 80%;
+}
+header button{
+    width: 150px;
+    height: 50px;
+    background: #ab3550;
+    border: 1px solid #ab3550;
+    font-weight: bold;
+    color: #fff;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 15px;
+    margin-top: 15px;
+    
+}
+header button:last-of-type{
+    background: #fff;
+    color: #000;
+    border: 1px solid #fff;
+    
+}
+header button:hover{
+    border: 1px solid #ab3550;
+    color: #ab3550;
+    background: #fff;
+    
+}
